@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv date="19-10-2021" generator-info-name="Update 01:10:14 - 19/10/2021" ">
+<channel id="vtv1hd">
+    <display-name lang="vi">VTV1 HD</display-name> 
+    <display-number>1</display-number> 
+    <icon src="https://onetv.click/logo/vtv1hd.jpg"/>
+</channel> 
+<channel id="vtv2hd">
+    <display-name lang="vi">VTV2 HD</display-name> 
+    <display-number>2</display-number> 
+    <icon src="https://onetv.click/logo/vtv2hd.jpg"/>
+</channel> 
+<channel id="vtv3hd">
+    <display-name lang="vi">VTV3 HD</display-name> 
+    <display-number>3</display-number> 
+    <icon src="https://onetv.click/logo/vtv3hd.jpg"/>
+</channel> 
+<channel id="vtv4hd">
+    <display-name lang="vi">VTV4 HD</display-name> 
+    <display-number>4</display-number> 
+    <icon src="https://onetv.click/logo/vtv4hd.jpg"/>
+</channel> 
+<channel id="vtv5hd">
+    <display-name lang="vi">VTV5 HD</display-name> 
+    <display-number>5</display-number> 
+    <icon src="https://onetv.click/logo/vtv5hd.jpg"/>
+</channel> 
+<channel id="vtv6hd">
+    <display-name lang="vi">VTV6 HD</display-name> 
+    <display-number>6</display-number> 
+    <icon src="https://onetv.click/logo/vtv6hd.jpg"/>
+</channel> 
+<channel id="vtv7hd">
+    <display-name lang="vi">VTV7 HD</display-name> 
+    <display-number>7</display-number> 
+    <icon src="https://onetv.click/logo/vtv7hd.jpg"/>
+</channel> 
+<channel id="vtv8hd">
+    <display-name lang="vi">VTV8 HD</display-name> 
+    <display-number>8</display-number> 
+    <icon src="https://onetv.click/logo/vtv8hd.jpg"/>
+</channel> 
+<channel id="vtv9hd">
+    <display-name lang="vi">VTV9 HD</display-name> 
+    <display-number>9</display-number> 
+    <icon src="https://onetv.click/logo/vtv9hd.jpg"/>
+</channel> 
+<channel id="vtv5hdtnb">
+    <display-name lang="vi">VTV5 HD - Tây Nam Bộ</display-name> 
+    <display-number>10</display-number> 
+    <icon src="https://onetv.click/logo/vtv5hdtn.png"/>
+</channel> 
+<channel id="vtv5hdtn">
+    <display-name lang="vi">VTV5 HD - Tây Nguyên</display-name> 
+    <display-number>11</display-number> 
+    <icon src="https://onetv.click/logo/vtv5hdtnb.png"/>
+</channel> 
+<channel id="kcinehd">
+    <display-name lang="vi">K+Cine HD</display-name> 
+    <display-number>12</display-number> 
+    <icon src="https://onetv.click/logo/kcinehd.jpg"/>
+</channel> 
+<channel id="klifehd">
+    <display-name lang="vi">K+Life HD</display-name> 
+    <display-number>13</display-number> 
+    <icon src="https://onetv.click/logo/klifehd.jpg"/>
+</channel> 
+<channel id="ksport1hd">
+    <display-name lang="vi">K+Sport1 HD</display-name> 
+    <display-number>14</display-number> 
+    <icon src="https://onetv.click/logo/ksport1hd.jpg"/>
+</channel> 
+<channel id="ksport2hd">
+    <display-name lang="vi">K+Sport2 HD</display-name> 
+    <display-number>15</display-number> 
+    <icon src="https://onetv.click/logo/ksport2hd.jpg"/>
+</channel> 
+<channel id="kkidshd">
+    <display-name lang="vi">K+Kids HD</display-name> 
+    <display-number>16</display-number> 
+    <icon src="https://img.kplus.vn/media/channels/005_KPLUS_KIDS_HD.png"/>
+</channel> 
+<channel id="vtvcab1hd">
+    <display-name lang="vi">VTVCab1 HD - Vie Giải Trí</display-name> 
+    <display-number>17</display-number> 
+    <icon src="https://onetv.click/logo/vie-giaitri.jpg"/>
+</channel> 
+<channel id="vtvcab2hd">
+    <display-name lang="vi">ON Phim Việt</display-name> 
+    <display-number>18</display-number> 
+    <icon src="https://onetv.click/logo/on-phimviet.jpg"/>
+</channel> 
+<channel id="vtvcab3hd">
+    <display-name lang="vi">ON Sports HD</display-name> 
+    <display-number>19</display-number> 
+    <icon src="https://onetv.click/logo/on-sports.jpg"/>
+</channel> 
+<channel id="vtvcab4hd">
+    <display-name lang="vi">VTVCab4 HD</display-name> 
+    <display-number>20</display-number> 
+    <icon src="https://onetv.click/logo/vtvcab4.png"/>
+</channel> 
+<channel id="vtvcab5hd">
+    <display-name lang="vi">VTVCab5 HD - E Channel</display-name> 
+    <display-number>21</display-number> 
+    <icon src="https://onetv.click/logo/vtvcab5hd.jpg"/>
+</channel> 
+<channel id="vtvcab6hd">
+    <display-name lang="vi">ON Sports+</display-name> 
+    <display-number>22</display-number> 
+    <icon src="https://onetv.click/logo/on-sportsplus.jpg"/>
+</channel> 
+<channel id="vtvcab7hd">
+    <display-name lang="vi">VTVCab7 HD</display-name> 
+    <display-number>23</display-number> 
+    <icon src="https://onetv.click/logo/vtvcab7hd.png"/>
+</channel> 
+<channel id="vtvcab8hd">
+    <display-name lang="vi">VTVCab8 HD - BiBi</display-name> 
+    <display-number>24</display-number> 
+    <icon src="https://onetv.click/logo/vtvcab8hd.jpg"/>
+</channel> 
+<channel id="vtvcab9hd">
+    <display-name lang="vi">VTVCab9 HD - Info TV</display-name> 
+    <display-number>25</display-number> 
+    <icon src="https://onetv.click/logo/vtvcab9hd.jpg"/>
+</channel> 
+<channel id="vtvcab10hd">
+    <display-name lang="vi">ON Cine</display-name> 
+    <display-number>26</display-number> 
+    <icon src="https://onetv.click/logo/on-cine.jpg"/>
+</channel> 
+<channel id="vtvcab12hd">
+    <display-name lang="vi">VTVCab12 HD - Style TV</display-name> 
+    <display-number>27</display-number> 
+    <icon src="https://onetv.click/logo/vtvcab12hd.jpg"/>
+</channel> 
+<channel id="vtvcab15hd">
+    <display-name lang="vi">VTVCab15 HD</display-name> 
+    <display-number>28</display-number> 
+    <icon src="https://onetv.click/logo/vtvcab15.jpg"/>
+</channel> 
+<channel id="vtvcab16hd">
+    <display-name lang="vi">ON Football HD</display-name> 
+    <display-number>29</display-number> 
+    <icon src="https://onetv.click/logo/on-football.jpg"/>
+</channel> 
+<channel id="vtvcab17hd">
+    <display-name lang="vi">VTVCab17 HD - Yeah1 TV</display-name> 
+    <display-number>30</display-number> 
+    <icon src="https://onetv.click/logo/vtvcab17hd.jpg"/>
+</channel> 
+<channel id="vtvcab18hd">
+    <display-name lang="vi">ON Sports News</display-name> 
+    <display-number>31</display-number> 
+    <icon src="https://onetv.click/logo/on-sportsnews.jpg"/>
+</channel> 
+<channel id="vtvcab19hd">
+    <display-name lang="vi">VTVCab19 HD - Vie DRAMAS</display-name> 
+    <display-number>32</display-number> 
+    <icon src="https://onetv.click/logo/vie-dramas.jpg"/>
+</channel> 
+<channel id="vtvcab20hd">
+    <display-name lang="vi">VTVCab20 HD - V Family</display-name> 
+    <display-number>33</display-number> 
+    <icon src="https://onetv.click/logo/vtvcab20hd.jpg"/>
+</channel> 
+<channel id="vtvcab21hd">
+    <display-name lang="vi">VTVCab21 HD - BiBi+</display-name> 
+    <display-number>34</display-number> 
+    <icon src="https://onetv.click/logo/vtvcab21hd.jpg"/>
+</channel> 
+<channel id="vtvcab22hd">
+    <display-name lang="vi">VTVCab22 HD - Life TV</display-name> 
+    <display-number>35</display-number> 
+    <icon src="https://onetv.click/logo/vtvcab22hd.png"/>
+</channel> 
+<channel id="vtvcab23hd">
+    <display-name lang="vi">ON Golf</display-name> 
+    <display-number>36</display-number> 
+    <icon src="https://onetv.click/logo/on-golf.jpg"/>
+</channel> 
+<channel id="qpvnhd">
+    <display-name lang="vi">QPVN HD</display-name> 
+    <display-number>37</display-number> 
+    <icon src="https://onetv.click/logo/qpvnhd.jpg"/>
+</channel> 
+<channel id="antvhd">
+    <display-name lang="vi">ANTV HD</display-name> 
+    <display-number>38</display-number> 
+    <icon src="https://onetv.click/logo/antv.png"/>
+</channel> 
+<channel id="antg">
+    <display-name lang="vi">An Ninh Thế Giới</display-name> 
+    <display-number>39</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="ttxvnhd">
+    <display-name lang="vi">TTXVN HD</display-name> 
+    <display-number>40</display-number> 
+    <icon src="https://onetv.click/logo/ttxvn.jpg"/>
+</channel> 
+<channel id="quochoi">
+    <display-name lang="vi">Quốc Hội</display-name> 
+    <display-number>41</display-number> 
+    <icon src="https://onetv.click/logo/quochoi.jpg"/>
+</channel> 
+<channel id="nhandan">
+    <display-name lang="vi">Nhân Dân</display-name> 
+    <display-number>42</display-number> 
+    <icon src="https://onetv.click/logo/nhandan.jpg"/>
+</channel> 
+<channel id="vovtvhd">
+    <display-name lang="vi">VOVTV HD</display-name> 
+    <display-number>43</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="vtc1hd">
+    <display-name lang="vi">VTC1 HD</display-name> 
+    <display-number>44</display-number> 
+    <icon src="https://onetv.click/logo/vtc1hd.jpg"/>
+</channel> 
+<channel id="vtc2">
+    <display-name lang="vi">VTC2</display-name> 
+    <display-number>45</display-number> 
+    <icon src="https://onetv.click/logo/vtc2.jpg"/>
+</channel> 
+<channel id="vtc3hd">
+    <display-name lang="vi">VTC3 HD</display-name> 
+    <display-number>46</display-number> 
+    <icon src="https://onetv.click/logo/vtc3hd.jpg"/>
+</channel> 
+<channel id="vtc4hd">
+    <display-name lang="vi">VTC4 HD</display-name> 
+    <display-number>47</display-number> 
+    <icon src="https://onetv.click/logo/vtc4hd.jpg"/>
+</channel> 
+<channel id="vtc5hd">
+    <display-name lang="vi">VTC5 HD</display-name> 
+    <display-number>48</display-number> 
+    <icon src="https://onetv.click/logo/vtc5hd.jpg"/>
+</channel> 
+<channel id="vtc6hd">
+    <display-name lang="vi">VTC6 HD</display-name> 
+    <display-number>49</display-number> 
+    <icon src="https://onetv.click/logo/vtc6hd.jpg"/>
+</channel> 
+<channel id="vtc7hd">
+    <display-name lang="vi">VTC7 HD - Today TV</display-name> 
+    <display-number>50</display-number> 
+    <icon src="https://onetv.click/logo/vtc7hd.png"/>
+</channel> 
+<channel id="vtc8">
+    <display-name lang="vi">VTC8</display-name> 
+    <display-number>51</display-number> 
+    <icon src="https://onetv.click/logo/vtc8.jpg"/>
+</channel> 
+<channel id="vtc9hd">
+    <display-name lang="vi">VTC9 HD</display-name> 
+    <display-number>52</display-number> 
+    <icon src="https://onetv.click/logo/vtc9hd.jpg"/>
+</channel> 
+<channel id="vtc10hd">
+    <display-name lang="vi">VTC10 HD</display-name> 
+    <display-number>53</display-number> 
+    <icon src="https://onetv.click/logo/vtc10hd.jpg"/>
+</channel> 
+<channel id="vtc11">
+    <display-name lang="vi">VTC11 - Kids &amp; Family TV</display-name> 
+    <display-number>54</display-number> 
+    <icon src="https://onetv.click/logo/vtc11.jpg"/>
+</channel> 
+<channel id="vtc13hd">
+    <display-name lang="vi">VTC13 HD</display-name> 
+    <display-number>55</display-number> 
+    <icon src="https://onetv.click/logo/vtc13hd.jpg"/>
+</channel> 
+<channel id="vtc14hd">
+    <display-name lang="vi">VTC14 HD</display-name> 
+    <display-number>56</display-number> 
+    <icon src="https://onetv.click/logo/vtc14hd.jpg"/>
+</channel> 
+<channel id="vtc16">
+    <display-name lang="vi">VTC16</display-name> 
+    <display-number>57</display-number> 
+    <icon src="https://onetv.click/logo/vtc16.jpg"/>
+</channel> 
+<channel id="htv1">
+    <display-name lang="vi">HTV1</display-name> 
+    <display-number>58</display-number> 
+    <icon src="https://onetv.click/logo/htv1.jpg"/>
+</channel> 
+<channel id="htv2hd">
+    <display-name lang="vi">HTV2 HD</display-name> 
+    <display-number>59</display-number> 
+    <icon src="https://onetv.click/logo/htv2hd.jpg"/>
+</channel> 
+<channel id="htv3">
+    <display-name lang="vi">HTV3</display-name> 
+    <display-number>60</display-number> 
+    <icon src="https://onetv.click/logo/htv3.png"/>
+</channel> 
+<channel id="htvkey">
+    <display-name lang="vi">HTV Key</display-name> 
+    <display-number>61</display-number> 
+    <icon src="https://onetv.click/logo/htvkey.jpg"/>
+</channel> 
+<channel id="htv7hd">
+    <display-name lang="vi">HTV7 HD</display-name> 
+    <display-number>62</display-number> 
+    <icon src="https://onetv.click/logo/htv7hd.jpg"/>
+</channel> 
+<channel id="htv9hd">
+    <display-name lang="vi">HTV9 HD</display-name> 
+    <display-number>63</display-number> 
+    <icon src="https://onetv.click/logo/htv9hd.jpg"/>
+</channel> 
+<channel id="htvthethaohd">
+    <display-name lang="vi">HTV Thể Thao HD</display-name> 
+    <display-number>64</display-number> 
+    <icon src="https://onetv.click/logo/htvthethaohd.jpg"/>
+</channel> 
+<channel id="htvcphimhd">
+    <display-name lang="vi">HTVC Phim HD</display-name> 
+    <display-number>65</display-number> 
+    <icon src="https://onetv.click/logo/htvcphimhd.jpg"/>
+</channel> 
+<channel id="htvcthuanviet">
+    <display-name lang="vi">HTVC Thuần Việt</display-name> 
+    <display-number>66</display-number> 
+    <icon src="https://onetv.click/logo/htvcthuanviet.jpg"/>
+</channel> 
+<channel id="htvcthuanviethd">
+    <display-name lang="vi">HTVC Thuần Việt HD</display-name> 
+    <display-number>67</display-number> 
+    <icon src="https://onetv.click/logo/htvcthuanviethd.jpg"/>
+</channel> 
+<channel id="htvcgiadinhhd">
+    <display-name lang="vi">HTVC Gia Đình HD</display-name> 
+    <display-number>68</display-number> 
+    <icon src="https://onetv.click/logo/htvcphunuhd.jpg"/>
+</channel> 
+<channel id="htvcphunuhd">
+    <display-name lang="vi">HTVC Phụ Nữ HD</display-name> 
+    <display-number>69</display-number> 
+    <icon src="https://onetv.click/logo/htvcphunuhd.jpg"/>
+</channel> 
+<channel id="htvcdulichhd">
+    <display-name lang="vi">HTVC Du Lịch HD</display-name> 
+    <display-number>70</display-number> 
+    <icon src="https://onetv.click/logo/htvcdulichhd.jpg"/>
+</channel> 
+<channel id="htvccanhachd">
+    <display-name lang="vi">HTVC Ca Nhạc HD</display-name> 
+    <display-number>71</display-number> 
+    <icon src="https://onetv.click/logo/htvccanhachd.jpg"/>
+</channel> 
+<channel id="htvcplushd">
+    <display-name lang="vi">HTVC Plus HD</display-name> 
+    <display-number>72</display-number> 
+    <icon src="https://onetv.click/logo/htvcplushd.jpg"/>
+</channel> 
+<channel id="htvcfbnc">
+    <display-name lang="vi">HTVC FBNC</display-name> 
+    <display-number>73</display-number> 
+    <icon src="https://onetv.click/logo/htvcfbnc.jpg"/>
+</channel> 
+<channel id="sctv1hd">
+    <display-name lang="vi">SCTV1 HD</display-name> 
+    <display-number>74</display-number> 
+    <icon src="https://onetv.click/logo/sctv1hd.png"/>
+</channel> 
+<channel id="sctv2hd">
+    <display-name lang="vi">SCTV2 HD</display-name> 
+    <display-number>75</display-number> 
+    <icon src="https://onetv.click/logo/sctv2hd.png"/>
+</channel> 
+<channel id="sctv3hd">
+    <display-name lang="vi">SCTV3 HD</display-name> 
+    <display-number>76</display-number> 
+    <icon src="https://onetv.click/logo/sctv3hd.png"/>
+</channel> 
+<channel id="sctv4hd">
+    <display-name lang="vi">SCTV4 HD</display-name> 
+    <display-number>77</display-number> 
+    <icon src="https://onetv.click/logo/sctv4hd.png"/>
+</channel> 
+<channel id="sctv6hd">
+    <display-name lang="vi">SCTV6 HD</display-name> 
+    <display-number>78</display-number> 
+    <icon src="https://onetv.click/logo/sctv6hd.png"/>
+</channel> 
+<channel id="sctv7hd">
+    <display-name lang="vi">SCTV7 HD</display-name> 
+    <display-number>79</display-number> 
+    <icon src="https://onetv.click/logo/sctv7hd.png"/>
+</channel> 
+<channel id="sctv8hd">
+    <display-name lang="vi">SCTV8 HD</display-name> 
+    <display-number>80</display-number> 
+    <icon src="https://onetv.click/logo/sctv8hd.png"/>
+</channel> 
+<channel id="sctv9hd">
+    <display-name lang="vi">SCTV9 HD</display-name> 
+    <display-number>81</display-number> 
+    <icon src="https://onetv.click/logo/sctv9hd.png"/>
+</channel> 
+<channel id="sctv11hd">
+    <display-name lang="vi">SCTV11 HD</display-name> 
+    <display-number>82</display-number> 
+    <icon src="https://onetv.click/logo/sctv11hd.png"/>
+</channel> 
+<channel id="sctv12hd">
+    <display-name lang="vi">SCTV12 HD</display-name> 
+    <display-number>83</display-number> 
+    <icon src="https://onetv.click/logo/sctv12hd.png"/>
+</channel> 
+<channel id="sctv13hd">
+    <display-name lang="vi">SCTV13 HD</display-name> 
+    <display-number>84</display-number> 
+    <icon src="https://onetv.click/logo/sctv13hd.png"/>
+</channel> 
+<channel id="sctv14hd">
+    <display-name lang="vi">SCTV14 HD</display-name> 
+    <display-number>85</display-number> 
+    <icon src="https://onetv.click/logo/sctv14hd.png"/>
+</channel> 
+<channel id="sctv15hd">
+    <display-name lang="vi">SCTV15 HD</display-name> 
+    <display-number>86</display-number> 
+    <icon src="https://onetv.click/logo/sctv15hd.png"/>
+</channel> 
+<channel id="sctv16hd">
+    <display-name lang="vi">SCTV16 HD</display-name> 
+    <display-number>87</display-number> 
+    <icon src="https://onetv.click/logo/sctv16hd.png"/>
+</channel> 
+<channel id="sctv17hd">
+    <display-name lang="vi">SCTV17 HD</display-name> 
+    <display-number>88</display-number> 
+    <icon src="https://onetv.click/logo/sctv17hd.png"/>
+</channel> 
+<channel id="sctv18hd">
+    <display-name lang="vi">SCTV18 HD</display-name> 
+    <display-number>89</display-number> 
+    <icon src="https://onetv.click/logo/sctv18hd.png"/>
+</channel> 
+<channel id="sctv19hd">
+    <display-name lang="vi">SCTV19 HD</display-name> 
+    <display-number>90</display-number> 
+    <icon src="https://onetv.click/logo/sctv19hd.png"/>
+</channel> 
+<channel id="sctv20hd">
+    <display-name lang="vi">SCTV20 HD</display-name> 
+    <display-number>91</display-number> 
+    <icon src="https://onetv.click/logo/sctv20hd.png"/>
+</channel> 
+<channel id="sctv21hd">
+    <display-name lang="vi">SCTV21 HD</display-name> 
+    <display-number>92</display-number> 
+    <icon src="https://onetv.click/logo/sctv21hd.jpg"/>
+</channel> 
+<channel id="sctv22hd">
+    <display-name lang="vi">SCTV22 HD</display-name> 
+    <display-number>93</display-number> 
+    <icon src="https://onetv.click/logo/sctv22hd.png"/>
+</channel> 
+<channel id="sctvhdpth">
+    <display-name lang="vi">SCTV HD Phim Tổng Hợp</display-name> 
+    <display-number>94</display-number> 
+    <icon src="https://onetv.click/logo/sctvhdpth.png"/>
+</channel> 
+<channel id="btv5hd">
+    <display-name lang="vi">BTV5 HD</display-name> 
+    <display-number>95</display-number> 
+    <icon src="https://onetv.click/logo/btv5hd.png"/>
+</channel> 
+<channel id="axnhd">
+    <display-name lang="vi">AXN HD</display-name> 
+    <display-number>96</display-number> 
+    <icon src="https://onetv.click/logo/axn.png"/>
+</channel> 
+<channel id="hbohd">
+    <display-name lang="vi">HBO HD</display-name> 
+    <display-number>97</display-number> 
+    <icon src="https://onetv.click/logo/hbohd.png"/>
+</channel> 
+<channel id="cinemaxhd">
+    <display-name lang="vi">Cinemax HD</display-name> 
+    <display-number>98</display-number> 
+    <icon src="https://onetv.click/logo/cinemaxhd.png"/>
+</channel> 
+<channel id="warnertvhd">
+    <display-name lang="vi">Warner TV HD</display-name> 
+    <display-number>99</display-number> 
+    <icon src="https://onetv.click/logo/warnertvhd.jpg"/>
+</channel> 
+<channel id="cinemaworldhd">
+    <display-name lang="vi">Cinema World HD</display-name> 
+    <display-number>100</display-number> 
+    <icon src="https://onetv.click/logo/cinemaworldhd.jpg"/>
+</channel> 
+<channel id="paramouthd">
+    <display-name lang="vi">Paramout HD</display-name> 
+    <display-number>101</display-number> 
+    <icon src="https://onetv.click/logo/paramouthd.jpg"/>
+</channel> 
+<channel id="mtvhd">
+    <display-name lang="vi">MTV HD</display-name> 
+    <display-number>102</display-number> 
+    <icon src="https://onetv.click/logo/mtvhd.jpg"/>
+</channel> 
+<channel id="animalhd">
+    <display-name lang="vi">Animal Planet HD</display-name> 
+    <display-number>103</display-number> 
+    <icon src="https://onetv.click/logo/animalhd.jpg"/>
+</channel> 
+<channel id="bbcearth">
+    <display-name lang="vi">BBC Earth</display-name> 
+    <display-number>104</display-number> 
+    <icon src="https://onetv.click/logo/bbcearth.jpg"/>
+</channel> 
+<channel id="bbclifestyle">
+    <display-name lang="vi">BBC Life Style</display-name> 
+    <display-number>105</display-number> 
+    <icon src="https://onetv.click/logo/bbclifestyle.jpg"/>
+</channel> 
+<channel id="bbcworldnews">
+    <display-name lang="vi">BBC World News</display-name> 
+    <display-number>106</display-number> 
+    <icon src="https://onetv.click/logo/bbcnews.png"/>
+</channel> 
+<channel id="discoveryasiahd">
+    <display-name lang="vi">Discovery Asia HD</display-name> 
+    <display-number>107</display-number> 
+    <icon src="https://onetv.click/logo/discoveryasiahd.jpg"/>
+</channel> 
+<channel id="discoveryhd">
+    <display-name lang="vi">Discovery Channel HD</display-name> 
+    <display-number>108</display-number> 
+    <icon src="https://onetv.click/logo/discoveryhd.jpg"/>
+</channel> 
+<channel id="ngwhd">
+    <display-name lang="vi">Nat Geo Wild HD</display-name> 
+    <display-number>109</display-number> 
+    <icon src="https://onetv.click/logo/ngwhd.jpg"/>
+</channel> 
+<channel id="ngchd">
+    <display-name lang="vi">National Geographic HD</display-name> 
+    <display-number>110</display-number> 
+    <icon src="https://onetv.click/logo/ngchd.jpg"/>
+</channel> 
+<channel id="tlchd">
+    <display-name lang="vi">Travel &amp; Living HD</display-name> 
+    <display-number>111</display-number> 
+    <icon src="https://onetv.click/logo/tlc.jpg"/>
+</channel> 
+<channel id="afnhd">
+    <display-name lang="vi">AFN HD</display-name> 
+    <display-number>112</display-number> 
+    <icon src="https://onetv.click/logo/afnhd.png"/>
+</channel> 
+<channel id="animaxhd">
+    <display-name lang="vi">Animax HD</display-name> 
+    <display-number>113</display-number> 
+    <icon src="https://onetv.click/logo/animaxhd.jpg"/>
+</channel> 
+<channel id="babyfirst">
+    <display-name lang="vi">Baby First HD</display-name> 
+    <display-number>114</display-number> 
+    <icon src="https://onetv.click/logo/babyfirst.jpg"/>
+</channel> 
+<channel id="cbeebies">
+    <display-name lang="vi">Cbeebies</display-name> 
+    <display-number>115</display-number> 
+    <icon src="https://onetv.click/logo/cbeebies.jpg"/>
+</channel> 
+<channel id="davinci">
+    <display-name lang="vi">DaVinci HD</display-name> 
+    <display-number>116</display-number> 
+    <icon src="https://onetv.click/logo/davinci.png"/>
+</channel> 
+<channel id="boomerang">
+    <display-name lang="vi">Boomerang</display-name> 
+    <display-number>117</display-number> 
+    <icon src="https://onetv.click/logo/boomerang.jpg"/>
+</channel> 
+<channel id="cartoonhd">
+    <display-name lang="vi">Cartoon Network HD</display-name> 
+    <display-number>118</display-number> 
+    <icon src="https://onetv.click/logo/cartoonhd.jpg"/>
+</channel> 
+<channel id="fashionhd">
+    <display-name lang="vi">Fashion TV HD</display-name> 
+    <display-number>119</display-number> 
+    <icon src="https://onetv.click/logo/fashionhd.png"/>
+</channel> 
+<channel id="kbsworld">
+    <display-name lang="vi">KBS World</display-name> 
+    <display-number>120</display-number> 
+    <icon src="https://onetv.click/logo/kbsworld.jpg"/>
+</channel> 
+<channel id="outdoorhd">
+    <display-name lang="vi">Outdoor Channel HD</display-name> 
+    <display-number>121</display-number> 
+    <icon src="https://onetv.click/logo/outdoorhd.jpg"/>
+</channel> 
+<channel id="inthebox">
+    <display-name lang="vi">In The Box HD</display-name> 
+    <display-number>122</display-number> 
+    <icon src="https://onetv.click/logo/inthebox.jpg"/>
+</channel> 
+<channel id="boxhits">
+    <display-name lang="vi">Box Hits HD</display-name> 
+    <display-number>123</display-number> 
+    <icon src="https://onetv.click/logo/boxhits.jpg"/>
+</channel> 
+<channel id="musicbox">
+    <display-name lang="vi">Music Box HD</display-name> 
+    <display-number>124</display-number> 
+    <icon src="https://onetv.click/logo/musicbox.jpg"/>
+</channel> 
+<channel id="man">
+    <display-name lang="vi">Man HD</display-name> 
+    <display-number>125</display-number> 
+    <icon src="https://onetv.click/logo/man.jpg"/>
+</channel> 
+<channel id="boxmovie1">
+    <display-name lang="vi">Box Movie 1</display-name> 
+    <display-number>126</display-number> 
+    <icon src="https://onetv.click/logo/boxmovie1.jpg"/>
+</channel> 
+<channel id="hollywoodclassics">
+    <display-name lang="vi">Hollywood Classics</display-name> 
+    <display-number>127</display-number> 
+    <icon src="https://onetv.click/logo/hollywoodclassics.jpg"/>
+</channel> 
+<channel id="hits">
+    <display-name lang="vi">HITS</display-name> 
+    <display-number>128</display-number> 
+    <icon src="https://onetv.click/logo/hits.jpg"/>
+</channel> 
+<channel id="happykids">
+    <display-name lang="vi">Happy Kids HD</display-name> 
+    <display-number>129</display-number> 
+    <icon src="https://onetv.click/logo/happykids.jpg"/>
+</channel> 
+<channel id="babytvhd">
+    <display-name lang="vi">BabyTV HD</display-name> 
+    <display-number>130</display-number> 
+    <icon src="https://onetv.click/logo/babytvhd.jpg"/>
+</channel> 
+<channel id="dreamworks">
+    <display-name lang="vi">Dreamworks HD</display-name> 
+    <display-number>131</display-number> 
+    <icon src="https://onetv.click/logo/dreamworks.jpg"/>
+</channel> 
+<channel id="blueantent">
+    <display-name lang="vi">Blue Ant Entertainment HD</display-name> 
+    <display-number>132</display-number> 
+    <icon src="https://onetv.click/logo/blueantent.jpg"/>
+</channel> 
+<channel id="blueantext">
+    <display-name lang="vi">Blue Ant Extreme HD</display-name> 
+    <display-number>133</display-number> 
+    <icon src="https://onetv.click/logo/blueantext.jpg"/>
+</channel> 
+<channel id="woman">
+    <display-name lang="vi">Woman HD</display-name> 
+    <display-number>134</display-number> 
+    <icon src="https://onetv.click/logo/woman.jpg"/>
+</channel> 
+<channel id="drfithd">
+    <display-name lang="vi">Dr.Fit HD</display-name> 
+    <display-number>135</display-number> 
+    <icon src="https://onetv.click/logo/drfithd.jpg"/>
+</channel> 
+<channel id="planetearthhd">
+    <display-name lang="vi">Planet Earth HD</display-name> 
+    <display-number>136</display-number> 
+    <icon src="https://onetv.click/logo/planetearthhd.jpg"/>
+</channel> 
+<channel id="historyhd">
+    <display-name lang="vi">History HD</display-name> 
+    <display-number>137</display-number> 
+    <icon src="https://onetv.click/logo/historyhd.jpg"/>
+</channel> 
+<channel id="kix">
+    <display-name lang="vi">Kix HD</display-name> 
+    <display-number>138</display-number> 
+    <icon src="https://onetv.click/logo/kix.png"/>
+</channel> 
+<channel id="wakuwakujapan">
+    <display-name lang="vi">WakuWaku Japan</display-name> 
+    <display-number>139</display-number> 
+    <icon src="https://onetv.click/logo/wakuwakujapan.jpg"/>
+</channel> 
+<channel id="mezzolivehd">
+    <display-name lang="vi">Mezzo Live HD</display-name> 
+    <display-number>140</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="hgtv">
+    <display-name lang="vi">HGTV</display-name> 
+    <display-number>141</display-number> 
+    <icon src="https://onetv.click/logo/hgtv.jpg"/>
+</channel> 
+<channel id="dw">
+    <display-name lang="vi">DW HD</display-name> 
+    <display-number>142</display-number> 
+    <icon src="https://onetv.click/logo/dw.jpg"/>
+</channel> 
+<channel id="abcaustralia">
+    <display-name lang="vi">ABC Australia</display-name> 
+    <display-number>143</display-number> 
+    <icon src="https://onetv.click/logo/abcaustralia.png"/>
+</channel> 
+<channel id="arirang">
+    <display-name lang="vi">Arirang</display-name> 
+    <display-number>144</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="bloomberg">
+    <display-name lang="vi">Bloomberg</display-name> 
+    <display-number>145</display-number> 
+    <icon src="https://onetv.click/logo/bloomberg.png"/>
+</channel> 
+<channel id="cnn">
+    <display-name lang="vi">CNN</display-name> 
+    <display-number>146</display-number> 
+    <icon src="https://onetv.click/logo/cnn.png"/>
+</channel> 
+<channel id="nhkworld">
+    <display-name lang="vi">NHK World</display-name> 
+    <display-number>147</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="france24eng">
+    <display-name lang="vi">France 24 English</display-name> 
+    <display-number>148</display-number> 
+    <icon src="https://onetv.click/logo/france24eng.png"/>
+</channel> 
+<channel id="tv5monde">
+    <display-name lang="vi">TV5 Monde</display-name> 
+    <display-number>149</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="hbohd-asia">
+    <display-name lang="vi">HBO HD Asia</display-name> 
+    <display-number>150</display-number> 
+    <icon src="https://onetv.click/logo/hbohd-asia.png"/>
+</channel> 
+<channel id="hbosignaturehd-asia">
+    <display-name lang="vi">HBO Signature HD Asia</display-name> 
+    <display-number>151</display-number> 
+    <icon src="https://onetv.click/logo/hbosignaturehd-asia.png"/>
+</channel> 
+<channel id="hbohitshd-asia">
+    <display-name lang="vi">HBO Hits HD Asia</display-name> 
+    <display-number>152</display-number> 
+    <icon src="https://onetv.click/logo/hbohitshd-asia.png"/>
+</channel> 
+<channel id="hbofamilyhd-asia">
+    <display-name lang="vi">HBO Family HD Asia</display-name> 
+    <display-number>153</display-number> 
+    <icon src="https://onetv.click/logo/hbofamilyhd-asia.png"/>
+</channel> 
+<channel id="cinemaxhd-asia">
+    <display-name lang="vi">Cinemax HD Asia</display-name> 
+    <display-number>154</display-number> 
+    <icon src="https://onetv.click/logo/cinemaxhd-asia.png"/>
+</channel> 
+<channel id="cinemaxhd-asia">
+    <display-name lang="vi">Cinemax HD Asia</display-name> 
+    <display-number>154</display-number> 
+    <icon src="https://onetv.click/logo/cinemaxhd-asia.png"/>
+</channel> 
+<channel id="sbsgolfhd">
+    <display-name lang="vi">SBS Golf</display-name> 
+    <display-number>155</display-number> 
+    <icon src="https://onetv.click/logo/sbsgolfhd.jpg"/>
+</channel> 
+<channel id="sbshd">
+    <display-name lang="vi">SBS</display-name> 
+    <display-number>156</display-number> 
+    <icon src="https://onetv.click/logo/sbshd.jpg"/>
+</channel> 
+<channel id="sbsmtvhd">
+    <display-name lang="vi">SBS MTV</display-name> 
+    <display-number>157</display-number> 
+    <icon src="https://onetv.click/logo/sbsmtvhd.jpg"/>
+</channel> 
+<channel id="sbssportshd">
+    <display-name lang="vi">SBS Sports</display-name> 
+    <display-number>158</display-number> 
+    <icon src="https://onetv.click/logo/sbssportshd.jpg"/>
+</channel> 
+<channel id="sbsnickhd">
+    <display-name lang="vi">Nickelodeon</display-name> 
+    <display-number>159</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="sbsplushd">
+    <display-name lang="vi">SBS Plus</display-name> 
+    <display-number>160</display-number> 
+    <icon src="https://onetv.click/logo/sbsplushd.jpg"/>
+</channel> 
+<channel id="sbsetvhd">
+    <display-name lang="vi">SBS funE</display-name> 
+    <display-number>161</display-number> 
+    <icon src="https://onetv.click/logo/sbsetvhd.jpg"/>
+</channel> 
+<channel id="sbscnbchd">
+    <display-name lang="vi">SBS CNBC</display-name> 
+    <display-number>162</display-number> 
+    <icon src="https://onetv.click/logo/sbscnbchd.jpg"/>
+</channel> 
+<channel id="anvienhd">
+    <display-name lang="vi">An Viên HD</display-name> 
+    <display-number>163</display-number> 
+    <icon src="https://onetv.click/logo/anvien.png"/>
+</channel> 
+<channel id="angiang">
+    <display-name lang="vi">An Giang</display-name> 
+    <display-number>164</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="bacgiang">
+    <display-name lang="vi">Bắc Giang</display-name> 
+    <display-number>165</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="backan">
+    <display-name lang="vi">Bắc Kạn</display-name> 
+    <display-number>166</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="bacninh">
+    <display-name lang="vi">Bắc Ninh</display-name> 
+    <display-number>167</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="bentre">
+    <display-name lang="vi">Bến Tre</display-name> 
+    <display-number>168</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="binhdinh">
+    <display-name lang="vi">Bình Định</display-name> 
+    <display-number>169</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="binhduong1">
+    <display-name lang="vi">Bình Dương 1</display-name> 
+    <display-number>170</display-number> 
+    <icon src="https://onetv.click/logo/binhduong1.jpg"/>
+</channel> 
+<channel id="binhduong2">
+    <display-name lang="vi">Bình Dương 2</display-name> 
+    <display-number>171</display-number> 
+    <icon src="https://onetv.click/logo/binhduong2.jpg"/>
+</channel> 
+<channel id="binhduong4">
+    <display-name lang="vi">Bình Dương 4</display-name> 
+    <display-number>172</display-number> 
+    <icon src="https://onetv.click/logo/binhduong4.png"/>
+</channel> 
+<channel id="binhthuan">
+    <display-name lang="vi">Bình Thuận</display-name> 
+    <display-number>173</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="binhphuoc1">
+    <display-name lang="vi">Bình Phước 1</display-name> 
+    <display-number>174</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="binhphuoc2">
+    <display-name lang="vi">Bình Phước 2</display-name> 
+    <display-number>175</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="camau">
+    <display-name lang="vi">Cà Mau</display-name> 
+    <display-number>176</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="cantho">
+    <display-name lang="vi">Cần Thơ</display-name> 
+    <display-number>177</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="caobang">
+    <display-name lang="vi">Cao Bằng</display-name> 
+    <display-number>178</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="danang1">
+    <display-name lang="vi">Đà Nẵng 1</display-name> 
+    <display-number>179</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="danang2">
+    <display-name lang="vi">Đà Nẵng 2</display-name> 
+    <display-number>180</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="daknong">
+    <display-name lang="vi">Đắk Nông</display-name> 
+    <display-number>181</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="daklak">
+    <display-name lang="vi">Đắk Lắk</display-name> 
+    <display-number>182</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="dienbien">
+    <display-name lang="vi">Điện Biên</display-name> 
+    <display-number>183</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="dongthap">
+    <display-name lang="vi">Đồng Tháp</display-name> 
+    <display-number>184</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="gialai">
+    <display-name lang="vi">Gia Lai</display-name> 
+    <display-number>185</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="hagiang">
+    <display-name lang="vi">Hà Giang</display-name> 
+    <display-number>186</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="hanam">
+    <display-name lang="vi">Hà Nam</display-name> 
+    <display-number>187</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="hanoi1">
+    <display-name lang="vi">Hà Nội 1</display-name> 
+    <display-number>188</display-number> 
+    <icon src="https://onetv.click/logo/hanoi1.jpg"/>
+</channel> 
+<channel id="hanoi2">
+    <display-name lang="vi">Hà Nội 2</display-name> 
+    <display-number>189</display-number> 
+    <icon src="https://onetv.click/logo/hanoi2.jpg"/>
+</channel> 
+<channel id="hitv">
+    <display-name lang="vi">HanoiCab</display-name> 
+    <display-number>190</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="youtv">
+    <display-name lang="vi">HanoiCab 2</display-name> 
+    <display-number>191</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="hatinh">
+    <display-name lang="vi">Hà Tĩnh</display-name> 
+    <display-number>192</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="haiduong">
+    <display-name lang="vi">Hải Dương</display-name> 
+    <display-number>193</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="haiphong">
+    <display-name lang="vi">Hải Phòng</display-name> 
+    <display-number>194</display-number> 
+    <icon src="https://onetv.click/logo/haiphong.jpg"/>
+</channel> 
+<channel id="haugiang">
+    <display-name lang="vi">Hậu Giang</display-name> 
+    <display-number>195</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="hoabinh">
+    <display-name lang="vi">Hòa Bình</display-name> 
+    <display-number>196</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="hue">
+    <display-name lang="vi">Huế</display-name> 
+    <display-number>197</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="hungyen">
+    <display-name lang="vi">Hưng Yên</display-name> 
+    <display-number>198</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="khanhhoa">
+    <display-name lang="vi">Khánh Hòa</display-name> 
+    <display-number>199</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="kiengiang">
+    <display-name lang="vi">Kiên Giang</display-name> 
+    <display-number>200</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="kontum">
+    <display-name lang="vi">Kon Tum</display-name> 
+    <display-number>201</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="lamdong">
+    <display-name lang="vi">Lâm Đồng</display-name> 
+    <display-number>202</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="langson">
+    <display-name lang="vi">Lạng Sơn</display-name> 
+    <display-number>203</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="laocai">
+    <display-name lang="vi">Lào Cai</display-name> 
+    <display-number>204</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="longan">
+    <display-name lang="vi">Long An</display-name> 
+    <display-number>205</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="namdinh">
+    <display-name lang="vi">Nam Định</display-name> 
+    <display-number>206</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="nghean">
+    <display-name lang="vi">Nghệ An</display-name> 
+    <display-number>207</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="ninhbinh">
+    <display-name lang="vi">Ninh Bình</display-name> 
+    <display-number>208</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="ninhthuan">
+    <display-name lang="vi">Ninh Thuận</display-name> 
+    <display-number>209</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="phutho">
+    <display-name lang="vi">Phú Thọ</display-name> 
+    <display-number>210</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="quangbinh">
+    <display-name lang="vi">Quảng Bình</display-name> 
+    <display-number>211</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="quangnam">
+    <display-name lang="vi">Quảng Nam</display-name> 
+    <display-number>212</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="quangngai">
+    <display-name lang="vi">Quảng Ngãi</display-name> 
+    <display-number>213</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="quangninh1">
+    <display-name lang="vi">Quảng Ninh 1</display-name> 
+    <display-number>214</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="quangninh3">
+    <display-name lang="vi">Quảng Ninh 3</display-name> 
+    <display-number>215</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="quangtri">
+    <display-name lang="vi">Quảng Trị</display-name> 
+    <display-number>216</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="soctrang">
+    <display-name lang="vi">Sóc Trăng</display-name> 
+    <display-number>217</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="sonla">
+    <display-name lang="vi">Sơn La</display-name> 
+    <display-number>218</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="tayninh">
+    <display-name lang="vi">Tây Ninh</display-name> 
+    <display-number>219</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="thaibinh">
+    <display-name lang="vi">Thái Bình</display-name> 
+    <display-number>220</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="thainguyen">
+    <display-name lang="vi">Thái Nguyên</display-name> 
+    <display-number>221</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="thanhhoa">
+    <display-name lang="vi">Thanh Hóa</display-name> 
+    <display-number>222</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="tiengiang">
+    <display-name lang="vi">Tiền Giang</display-name> 
+    <display-number>223</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="travinh">
+    <display-name lang="vi">Trà Vinh</display-name> 
+    <display-number>224</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="tuyenquang">
+    <display-name lang="vi">Tuyên Quang</display-name> 
+    <display-number>225</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="vinhlong1hd">
+    <display-name lang="vi">THVL1 HD</display-name> 
+    <display-number>226</display-number> 
+    <icon src="https://onetv.click/logo/vinhlong1hd.jpg"/>
+</channel> 
+<channel id="vinhlong2hd">
+    <display-name lang="vi">THVL2 HD</display-name> 
+    <display-number>227</display-number> 
+    <icon src="https://onetv.click/logo/vinhlong2hd.jpg"/>
+</channel> 
+<channel id="vinhlong3hd">
+    <display-name lang="vi">THVL3 HD</display-name> 
+    <display-number>228</display-number> 
+    <icon src="https://onetv.click/logo/vinhlong3hd.jpg"/>
+</channel> 
+<channel id="vinhlong4hd">
+    <display-name lang="vi">THVL4 HD</display-name> 
+    <display-number>229</display-number> 
+    <icon src="https://onetv.click/logo/vinhlong4hd.png"/>
+</channel> 
+<channel id="vinhphuc">
+    <display-name lang="vi">Vĩnh Phúc</display-name> 
+    <display-number>230</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
+<channel id="vungtau">
+    <display-name lang="vi">Vũng Tàu</display-name> 
+    <display-number>231</display-number> 
+    <icon src="https://onetv.click/logo/noid.png"/>
+</channel> 
